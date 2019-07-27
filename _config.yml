@@ -1,0 +1,22 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - about-en.md
+  - about.md
+  - beta-program-en.md
+  - beta-program.md
+  - community-rules-en.md
+  - community-rules.md
+  - faq-en.md
+  - faq.md
+  - feedback-en.md
+  - feedback.md
+  - index-en.md
+  - index.md
+  - privacy-en.md
+  - privacy.md
+  - terms-of-submissions-en.md
+  - terms-of-submissions.md
