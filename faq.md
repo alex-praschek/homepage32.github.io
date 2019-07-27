@@ -63,6 +63,8 @@ Schade, dass du dein Konto löschen möchtest. Es wäre schön, wenn du uns die 
 
 Wenn du dein Konto löschen möchtest, öffne in der App die Einstellungen und klicke auf "Dein Account". Tippe dann auf "Account endgültig löschen" und bestätige die Abfragen. __Bitte beachte, dass dabei alle deine Daten unwiderruflich gelöscht werden und auch wir diese nicht mehr wiederherstellen können.__
 
+---
+
 _Keine Antwort gefunden? Dann kontaktiere uns einfach über das Feedback-Formular in den App-Einstellungen oder per E-Mail an contact@asumaone.com!_
 
 ---
