@@ -18,7 +18,8 @@ No matter if you have just moved to a new city or want to meet someone new: We t
 
 ## Download
 Are you curious? Download the app for free and meet many new people today!
-[Download](https://play.google.com/store/apps/details?id=com.asumaone.gyf&referrer=utm_source%3Dwebsite)
+
+[![Download](/img/badge_play_en.png)](https://play.google.com/store/apps/details?id=com.asumaone.gyf&referrer=utm_source%3Dwebsite)
 
 ---
 

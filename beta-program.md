@@ -5,7 +5,7 @@ _Language / Sprache_<br />
 
 Wenn du die neuesten Features vor allen anderen ausprobieren möchtest, kannst du unserem Beta-Programm beitreten.
 
-1. Öffne folgenden Link: https://play.google.com/apps/testing/com.asumaone.gyf
+1. Öffne folgenden Link: [https://play.google.com/apps/testing/com.asumaone.gyf](https://play.google.com/apps/testing/com.asumaone.gyf).
 2. Klicke auf "Tester werden".
 3. Wenn du die App bereits heruntergeladen hast und zurzeit eine neuere Beta-Version zur Verfügung steht, siehst du nach kurzer Zeit ein Update im Google Play Store.
 4. Lade das Update herunter und teste die neuen Funktionen!
