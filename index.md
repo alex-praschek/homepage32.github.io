@@ -1,4 +1,5 @@
-_Language / Sprache:_ [EN](/index-en) | [__DE__](/index)
+_Language / Sprache_<br />
+[EN](/index-en) | [__DE__](/index)
 
 # Guess Your Friends: Triff neue Leute
 
@@ -16,10 +17,10 @@ Welche Serien liebt ihr? Was hört ihr für Musik? Und habt ihr schon mal nach d
 Egal ob du gerade erst in eine neue Stadt gezogen bist oder mal wieder jemand neuen kennen lernen willst: Wir berücksichtigen deinen Standort und matchen dich mit Menschen in deiner Nähe!
 
 ## Download
-Neugierig geworden? Lade dir jetzt die App kostenlos herunter und lerne noch heute viele neue Leute kennen!
-https://play.google.com/store/apps/details?id=com.asumaone.gyf&referrer=utm_source%3Dwebsite[Download]
+Neugierig geworden? Lade dir jetzt die App kostenlos herunter und lerne noch heute viele neue Leute kennen!<br />
+[Download](https://play.google.com/store/apps/details?id=com.asumaone.gyf&referrer=utm_source%3Dwebsite)
 
-# Navigation
+---
 
 [__Guess Your Friends__](/index)<br />
 [Beta-Programm](/beta-program)<br />

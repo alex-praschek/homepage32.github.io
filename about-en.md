@@ -1,4 +1,5 @@
-_Language / Sprache:_ [__EN__](/about-en) | [DE](/about)
+_Language / Sprache_<br />
+[__EN__](/about-en) | [DE](/about)
 
 # About
 
@@ -13,7 +14,7 @@ How to reach us:<br />
 Email: contact@asumaone.com<br />
 Phone: +49 1578 541 8383
 
-# Navigation
+---
 
 [Guess Your Friends](/index-en)<br />
 [Beta Program](/beta-program-en)<br />

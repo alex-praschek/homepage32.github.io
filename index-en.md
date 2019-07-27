@@ -1,4 +1,5 @@
-_Language / Sprache:_ [__EN__](/index-en) | [DE](/index)
+_Language / Sprache_<br />
+[__EN__](/index-en) | [DE](/index)
 
 # Guess Your Friends: Meet New People
 
@@ -17,9 +18,9 @@ No matter if you have just moved to a new city or want to meet someone new: We t
 
 ## Download
 Are you curious? Download the app for free and meet many new people today!
-https://play.google.com/store/apps/details?id=com.asumaone.gyf&referrer=utm_source%3Dwebsite[Download]
+[Download](https://play.google.com/store/apps/details?id=com.asumaone.gyf&referrer=utm_source%3Dwebsite)
 
-# Navigation
+---
 
 [__Guess Your Friends__](/index-en)<br />
 [Beta Program](/beta-program-en)<br />

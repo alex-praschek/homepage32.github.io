@@ -1,4 +1,5 @@
-_Language / Sprache:_ [EN](/about-en) | [__DE__](/about)
+_Language / Sprache_<br />
+[EN](/about-en) | [__DE__](/about)
 
 # Impressum
 
@@ -13,7 +14,7 @@ So kannst du uns erreichen:<br />
 E-Mail: contact@asumaone.com<br />
 Telefon: +49 1578 541 8383
 
-# Navigation
+---
 
 [Guess Your Friends](/index)<br />
 [Beta-Programm](/beta-program)<br />

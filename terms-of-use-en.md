@@ -1,4 +1,5 @@
-_Language / Sprache:_ [__EN__](/terms-of-use-en) | [DE](/terms-of-use)
+_Language / Sprache_<br />
+[__EN__](/terms-of-use-en) | [DE](/terms-of-use)
 
 # Terms of use
 
@@ -65,7 +66,7 @@ _Language / Sprache:_ [__EN__](/terms-of-use-en) | [DE](/terms-of-use)
 
 Stand: Juni 2017
 
-# Navigation
+---
 
 [Guess Your Friends](/index-en)<br />
 [Beta Program](/beta-program-en)<br />

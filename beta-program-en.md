@@ -1,4 +1,5 @@
-_Language / Sprache:_ [__EN__](/beta-program-en) | [DE](/beta-program)
+_Language / Sprache_<br />
+[__EN__](/beta-program-en) | [DE](/beta-program)
 
 # Beta Program
 
@@ -10,7 +11,7 @@ If you want to try out the latest features before anybody else, you can join our
 4. Download the update and try out the new features!
 5. __Send us feedback__ using the feedback form in the app settings or contact us per mail at contact@asumaone.com!
 
-# Navigation
+---
 
 [Guess Your Friends](/index-en)<br />
 [__Beta Program__](/beta-program-en)<br />
