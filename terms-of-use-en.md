@@ -1,3 +1,5 @@
+_Language / Sprache:_ [__EN__](/terms-of-use-en) | [DE](/terms-of-use)
+
 # Terms of use
 
 ## §1 Zustandekommen des Vertragsverhältnisses, Änderungen der Nutzungsbedingungen
@@ -62,3 +64,15 @@
 2. Für die Bestimmung des Gerichtsstandes gilt Folgendes: Hat der Nutzer keinen allgemeinen Gerichtsstand in der Bundesrepublik Deutschland so ist Gerichtsstand der Sitz des Anbieters. Der Anbieter kann den Nutzer auch an seinem allgemeinen Gerichtsstand verklagen.
 
 Stand: Juni 2017
+
+# Navigation
+
+[Guess Your Friends](/index-en)<br />
+[Beta Program](/beta-program-en)<br />
+[FAQ](/faq-en)<br />
+[Community Rules](/community-rules-en)<br />
+[Feedback](/feedback-en)<br />
+[Privacy Policy](/privacy-en)<br />
+[__Terms of Use__](/terms-of-use-en)<br />
+[Terms of Submission](/terms-of-submissions-en)<br />
+[About](/about-en)

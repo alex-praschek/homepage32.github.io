@@ -1,5 +1,4 @@
-_Language_<br />
-[__EN__](/about-en) | [DE](/about)
+_Language / Sprache:_ [__EN__](/about-en) | [DE](/about)
 
 # About
 
@@ -16,11 +15,12 @@ Phone: +49 1578 541 8383
 
 # Navigation
 
-[Beta Program](/beta-program-en)
-[FAQ](/faq-en)
-[Community Rules](/community-rules-en)
-[Feedback](/feedback-en)
-[Privacy Policy](/privacy-en)
-[Terms of Use](/terms-of-use-en)
-[Terms of Submission](/terms-of-submissions-en)
+[Guess Your Friends](/index-en)<br />
+[Beta Program](/beta-program-en)<br />
+[FAQ](/faq-en)<br />
+[Community Rules](/community-rules-en)<br />
+[Feedback](/feedback-en)<br />
+[Privacy Policy](/privacy-en)<br />
+[Terms of Use](/terms-of-use-en)<br />
+[Terms of Submission](/terms-of-submissions-en)<br />
 [__About__](/about-en)

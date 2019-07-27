@@ -1,3 +1,5 @@
+_Language / Sprache:_ [__EN__](/faq-en) | [DE](/faq)
+
 # Frequently Asked Questions (FAQ)
 
 ## Why won't I receive any notifications?
@@ -51,3 +53,15 @@ It is a pity that you want to delete your account. It would be nice if you could
 If you want to delete your account, open the settings in the app and click on "Your Account". Then tap on "Delete account permanently" and confirm the prompts. __Please note that all your data will be irrevocably deleted and we will not be able to recover it.__
 
 _Can' t find what you are looking for? Then simply contact us via the feedback form in the app settings or by e-mail to contact@asumaone.com!_
+
+# Navigation
+
+[Guess Your Friends](/index-en)<br />
+[Beta Program](/beta-program-en)<br />
+[__FAQ__](/faq-en)<br />
+[Community Rules](/community-rules-en)<br />
+[Feedback](/feedback-en)<br />
+[Privacy Policy](/privacy-en)<br />
+[Terms of Use](/terms-of-use-en)<br />
+[Terms of Submission](/terms-of-submissions-en)<br />
+[About](/about-en)

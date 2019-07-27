@@ -1,3 +1,5 @@
+_Language / Sprache:_ [__EN__](/terms-of-submissions-en) | [DE](/terms-of-submissions)
+
 # Terms of submissions
 
 __By submitting your entry, you accept the following terms and conditions, which apply in addition to our Terms of Use:__
@@ -10,3 +12,15 @@ __By submitting your entry, you accept the following terms and conditions, which
     - All questions are checked for misspellings before publication
 
 Last Update: August 2018
+
+# Navigation
+
+[Guess Your Friends](/index-en)<br />
+[Beta Program](/beta-program-en)<br />
+[FAQ](/faq-en)<br />
+[Community Rules](/community-rules-en)<br />
+[Feedback](/feedback-en)<br />
+[Privacy Policy](/privacy-en)<br />
+[Terms of Use](/terms-of-use-en)<br />
+[__Terms of Submission__](/terms-of-submissions-en)<br />
+[About](/about-en)

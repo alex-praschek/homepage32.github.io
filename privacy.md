@@ -1,3 +1,5 @@
+_Language / Sprache:_ [EN](/privacy-en) | [__DE__](/privacy)
+
 # Datenschutz
 
 ## Verantwortlicher:
@@ -109,3 +111,15 @@ Stand: 28.12.2018
 ## 17. Änderungen der Datenschutzerklärung
     - Wir behalten uns vor, die Datenschutzerklärung zu ändern, um sie an geänderte Rechtslagen, oder bei Änderungen des Dienstes sowie der Datenverarbeitung anzupassen. Dies gilt jedoch nur im Hinblick auf Erklärungen zur Datenverarbeitung. Sofern Einwilligungen der Nutzer erforderlich sind oder Bestandteile der Datenschutzerklärung Regelungen des Vertragsverhältnisses mit den Nutzern enthalten, erfolgen die Änderungen nur mit Zustimmung der Nutzer.
     - Die Nutzer werden gebeten sich regelmäßig über den Inhalt der Datenschutzerklärung zu informieren.
+
+# Navigation
+
+[Guess Your Friends](/index)<br />
+[Beta-Programm](/beta-program)<br />
+[FAQ](/faq)<br />
+[Community-Regeln](/community-rules)<br />
+[Feedback](/feedback)<br />
+[__Datenschutzerklärung__](/privacy)<br />
+[Nutzungsbedingungen](/terms-of-use)<br />
+[Einsendebedingungen](/terms-of-submissions)<br />
+[Impressum](/about)

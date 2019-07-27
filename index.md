@@ -1,3 +1,5 @@
+_Language / Sprache:_ [EN](/index-en) | [__DE__](/index)
+
 # Guess Your Friends: Triff neue Leute
 
 Mit Guess Your Friends kannst du ganz einfach neue Leute kennenlernen. Lade die App jetzt kostenlos herunter!
@@ -16,3 +18,15 @@ Egal ob du gerade erst in eine neue Stadt gezogen bist oder mal wieder jemand ne
 ## Download
 Neugierig geworden? Lade dir jetzt die App kostenlos herunter und lerne noch heute viele neue Leute kennen!
 https://play.google.com/store/apps/details?id=com.asumaone.gyf&referrer=utm_source%3Dwebsite[Download]
+
+# Navigation
+
+[__Guess Your Friends__](/index)<br />
+[Beta-Programm](/beta-program)<br />
+[FAQ](/faq)<br />
+[Community-Regeln](/community-rules)<br />
+[Feedback](/feedback)<br />
+[Datenschutzerklärung](/privacy)<br />
+[Nutzungsbedingungen](/terms-of-use)<br />
+[Einsendebedingungen](/terms-of-submissions)<br />
+[Impressum](/about)

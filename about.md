@@ -1,5 +1,4 @@
-_Language_<br />
-[EN](/about-en) | [__DE__](/about)
+_Language / Sprache:_ [EN](/about-en) | [__DE__](/about)
 
 # Impressum
 
@@ -16,11 +15,12 @@ Telefon: +49 1578 541 8383
 
 # Navigation
 
-[Beta-Programm](/beta-program)
-[FAQ](/faq)
-[Community-Regeln](/community-rules)
-[Feedback](/feedback)
-[Datenschutzerklärung](/privacy)
-[Nutzungsbedingungen](/terms-of-use)
-[Einsendebedingungen](/terms-of-submissions)
+[Guess Your Friends](/index)<br />
+[Beta-Programm](/beta-program)<br />
+[FAQ](/faq)<br />
+[Community-Regeln](/community-rules)<br />
+[Feedback](/feedback)<br />
+[Datenschutzerklärung](/privacy)<br />
+[Nutzungsbedingungen](/terms-of-use)<br />
+[Einsendebedingungen](/terms-of-submissions)<br />
 [__Impressum__](/about)

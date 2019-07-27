@@ -1,3 +1,5 @@
+_Language / Sprache:_ [EN](/terms-of-submissions-en) | [__DE__](/terms-of-submissions)
+
 # Einsendebedingungen
 
 __Mit deiner Einsendung akzeptierst du folgende Bedingungen, die zusätzlich zu unseren Nutzungsbedingungen gelten:__
@@ -10,3 +12,15 @@ __Mit deiner Einsendung akzeptierst du folgende Bedingungen, die zusätzlich zu 
     - Alle Fragen werden vor Veröffentlichung auf Rechtschreibfehler geprüft
 
 ​Stand: August 2018
+
+# Navigation
+
+[Guess Your Friends](/index)<br />
+[Beta-Programm](/beta-program)<br />
+[FAQ](/faq)<br />
+[Community-Regeln](/community-rules)<br />
+[Feedback](/feedback)<br />
+[Datenschutzerklärung](/privacy)<br />
+[Nutzungsbedingungen](/terms-of-use)<br />
+[__Einsendebedingungen__](/terms-of-submissions)<br />
+[Impressum](/about)

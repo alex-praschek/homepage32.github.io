@@ -1,3 +1,5 @@
+_Language / Sprache:_ [__EN__](/index-en) | [DE](/index)
+
 # Guess Your Friends: Meet New People
 
 With Guess Your Friends you can easily meet new people. Download the app for free!
@@ -16,3 +18,15 @@ No matter if you have just moved to a new city or want to meet someone new: We t
 ## Download
 Are you curious? Download the app for free and meet many new people today!
 https://play.google.com/store/apps/details?id=com.asumaone.gyf&referrer=utm_source%3Dwebsite[Download]
+
+# Navigation
+
+[__Guess Your Friends__](/index-en)<br />
+[Beta Program](/beta-program-en)<br />
+[FAQ](/faq-en)<br />
+[Community Rules](/community-rules-en)<br />
+[Feedback](/feedback-en)<br />
+[Privacy Policy](/privacy-en)<br />
+[Terms of Use](/terms-of-use-en)<br />
+[Terms of Submission](/terms-of-submissions-en)<br />
+[About](/about-en)

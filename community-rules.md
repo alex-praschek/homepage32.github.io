@@ -1,3 +1,5 @@
+_Language / Sprache:_ [EN](/community-rules-en) | [__DE__](/community-rules)
+
 # Community-Regeln
 
 __Bitte beachte die folgenden Regeln, die dafür sorgen sollen, dass sich jeder Nutzer auf unserer Plattform wohlfühlt. Verstöße können mit temporären oder permanenten Sperren geahndet werden.__​
@@ -17,3 +19,15 @@ __3. Nachrichten.__ Bitte verhaltet euch angemessen, wenn ihr im Chat miteinande
 __4. Namen.__ Bitte verwendet eure echten Namen. Selbstverständlich sind Abkürzungen oder Spitznamen erlaubt, aber achtet darauf, dass diese angemessen sind. Namen, die nur aus Smileys bestehen oder aus einem Hinweis auf euren Snapchat- oder Instagram-Account, sind nicht erlaubt.​
 
 Stand: August 2018
+
+# Navigation
+
+[Guess Your Friends](/index)<br />
+[Beta-Programm](/beta-program)<br />
+[FAQ](/faq)<br />
+[__Community-Regeln__](/community-rules)<br />
+[Feedback](/feedback)<br />
+[Datenschutzerklärung](/privacy)<br />
+[Nutzungsbedingungen](/terms-of-use)<br />
+[Einsendebedingungen](/terms-of-submissions)<br />
+[Impressum](/about)

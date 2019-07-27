@@ -1,3 +1,5 @@
+_Language / Sprache:_ [__EN__](/privacy-en) | [DE](/privacy)
+
 # Privacy
 
 ## Responsible Person:
@@ -109,3 +111,15 @@ Last Update: 28.12.2018​
 ## 17. Changes to the privacy policy
     - We reserve the right to change the privacy policy in order to adapt it to changed legal situations or changes in the service and data processing. However, this only applies with regard to declarations on data processing. If user consents are required or components of the privacy policy contain provisions of the contractual relationship with the users, the changes will only be made with the user's consent.
     - The users are asked to inform themselves regularly about the contents of the privacy policy.
+
+# Navigation
+
+[Guess Your Friends](/index-en)<br />
+[Beta Program](/beta-program-en)<br />
+[FAQ](/faq-en)<br />
+[Community Rules](/community-rules-en)<br />
+[Feedback](/feedback-en)<br />
+[__Privacy Policy__](/privacy-en)<br />
+[Terms of Use](/terms-of-use-en)<br />
+[Terms of Submission](/terms-of-submissions-en)<br />
+[About](/about-en)

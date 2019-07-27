@@ -1,3 +1,5 @@
+_Language / Sprache:_ [EN](/faq-en) | [__DE__](/faq)
+
 # Häufige Fragen
 
 ## Warum erhalte ich keine Benachrichtigungen?
@@ -53,3 +55,15 @@ Schade, dass du dein Konto löschen möchtest. Es wäre schön, wenn du uns die 
 Wenn du dein Konto löschen möchtest, öffne in der App die Einstellungen und klicke auf "Dein Account". Tippe dann auf "Account endgültig löschen" und bestätige die Abfragen. __Bitte beachte, dass dabei alle deine Daten unwiderruflich gelöscht werden und auch wir diese nicht mehr wiederherstellen können.__
 
 _Keine Antwort gefunden? Dann kontaktiere uns einfach über das Feedback-Formular in den App-Einstellungen oder per E-Mail an contact@asumaone.com!_
+
+# Navigation
+
+[Guess Your Friends](/index)<br />
+[Beta-Programm](/beta-program)<br />
+[__FAQ__](/faq)<br />
+[Community-Regeln](/community-rules)<br />
+[Feedback](/feedback)<br />
+[Datenschutzerklärung](/privacy)<br />
+[Nutzungsbedingungen](/terms-of-use)<br />
+[Einsendebedingungen](/terms-of-submissions)<br />
+[Impressum](/about)
