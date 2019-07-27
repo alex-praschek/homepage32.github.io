@@ -11,7 +11,9 @@ Zip Code, City, Country: 86356 Neusäß, Deutschland<br />
 VAT-ID: DE314977101<br />
 Email Address: contact@asumaone.com
 
-Last Update: 28.12.2018​
+Last Update: 27.07.2019<br />
+Grund: Change of website hosting providers from Wix.com to GitHub
+
 
 ## 1. Information on data processing and legal bases
 - This privacy policy explains to you the type, scope and purpose of the processing of personally identifiable information within our online platform and the associated websites, functions and contents (collectively referred to as “platform”, “online services” or “application”). This privacy policy applies regardless of the domains, systems, platforms and devices (e.g. desktop or mobile) on which the application is running.
@@ -91,11 +93,11 @@ Last Update: 28.12.2018​
 - The user can withdraw or change his decision at any time in the settings of the application. In addition, the Appodeal Privacy Policy contains a link to delete all previously stored personally identifiable information about the user. The privacy policy can be found at https://www.appodeal.com/privacy-policy.
 - A list of all Appodeal partners, their privacy statements and opt-out possibilities can be found on the Appodeal website at https://www.appodeal.com/home/partners-privacy-policies/.
 
-## 13. Wix.com
-- We use the services of Wix.com Luxembourg S.a.r.l., 5 Rue Guillaume Kroll, L-1882 Luxembourg ("Wix.com") for hosting our website.
-- Wix.com uses cookies, which are stored on the user's device, e.g. to save the language of the user. Those cookies are necessary to allow the our website to operate.
-- The privacy policy of Wix.com can be found at https://de.wix.com/about/privacy.
-- We have signed a data processing addendum with Wix.com, which obliges Wix.com to protect the data of our users, process it on our behalf in accordance with the data privacy policy of Wix.com and in particular not to disclose it to third parties.
+## 13. GitHub.com
+- We use the services of GitHub Inc., 88 Colin P Kelly Jr. Street, San Francisco, California, United States of America ("GitHub") for hosting our website.
+- GitHub is certified under the Privacy Shield Agreement and thus offers a guarantee to comply with European data protection law (https://www.privacyshield.gov/participant?id=a2zt000000001K2AAI&status=Active).
+- GitHub uses cookies, which are stored on the user's device, e.g. to save the language of the user. Those cookies are necessary to allow the our website to operate.
+- The privacy policy of GitHub can be found at https://help.github.com/en/articles/github-privacy-statement
 
 ## 14. Users' rights
 - Users have the right, upon request and free of charge, to receive information about the personally identifiable information that we have stored about them.

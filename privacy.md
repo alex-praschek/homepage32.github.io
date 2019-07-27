@@ -11,7 +11,8 @@ PLZ, Ort, Land: 86356 Neusäß, Deutschland<br />
 USt-ID: DE314977101<br />
 E-Mail-Adresse: contact@asumaone.com
 
-Stand: 28.12.2018
+Stand: 27.07.2019<br />
+Grund: Wechsel des Webseiten-Hosting-Providers von Wix.com zu GitHub
 
 ## 1. Grundsätzliche Angaben zur Datenverarbeitung und Rechtsgrundlagen
 - Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte (nachfolgend gemeinsam bezeichnet als „Onlineangebot“, „Plattform“ oder „Anwendung“) auf. Die Datenschutzerklärung gilt unabhängig von den verwendeten Domains, Systemen, Plattformen und Geräten (z.B. Desktop oder Mobile) auf denen das Onlineangebot ausgeführt wird.
@@ -91,11 +92,11 @@ Stand: 28.12.2018
 - Der Nutzer kann seine Entscheidung jederzeit in den Einstellungen der App widerrufen bzw. ändern. Zusätzlich findet er in der Datenschutzerklärung von Appodeal einen Link, mit welchem er alle vorher gespeicherten personenbezogenen Daten über ihn löschen kann. Die Datenschutzerkärung finden Sie unter https://www.appodeal.com/privacy-policy.
 - Eine Liste aller Partner von Appodeal sowie deren Datenschutzerklärungen und Opt-Out-Möglichkeiten finden Sie auf der Webseite von Appodeal unter https://www.appodeal.com/home/partners-privacy-policies/.
 
-## 13. Wix.com
-- Wir verwenden für das Hosting unserer Webseite die Dienste von Wix.com Luxembourg S.a.r.l., 5 Rue Guillaume Kroll, L-1882 Luxembourg ("Wix.com").
-- Wix.com verwendet Cookies, die auf dem Gerät des Nutzers gespeichert werden, um so beispielsweise die Sprache des Nutzers zu speichern. Diese Cookies sind notwendig, um den Betrieb der Plattform gewähren zu können. 
-- Die Datenschutzerklärung von Wix.com kann unter folgendem Link eingesehen werden: https://de.wix.com/about/privacy
-- Wir haben ein Data-Processing-Addendum mit Wix.com abgeschlossen, das Wix.com dazu verpflichtet, die Daten unserer Nutzer zu schützen, sie entsprechend der Datenschutzbestimmungen von Wix.com in unserem Auftrag zu verarbeiten und sie insbesondere an keine Dritten weiterzugeben. 
+## 13. GitHub.com
+- Wir verwenden für das Hosting unserer Webseite die Dienste von GitHub Inc., 88 Colin P Kelly Jr. Street, San Francisco, Kalifornien, Vereinigte Staaten von Amerika ("GitHub").
+- GitHub ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (https://www.privacyshield.gov/participant?id=a2zt000000001K2AAI&status=Active).
+- GitHub verwendet Cookies, die auf dem Gerät des Nutzers gespeichert werden, um so beispielsweise die Sprache des Nutzers zu speichern. Diese Cookies sind notwendig, um den Betrieb der Plattform gewähren zu können. 
+- Die Datenschutzerklärung von GitHub kann unter folgendem Link eingesehen werden: https://help.github.com/en/articles/github-privacy-statement
 
 ## 14. Rechte der Nutzer
 - Nutzer haben das Recht, auf Antrag unentgeltlich Auskunft zu erhalten über die personenbezogenen Daten, die von uns über sie gespeichert wurden.
