@@ -1,0 +1,57 @@
+[Zurück](/thank-you)
+
+Hier ein paar lustige oder interessante Auswertungen, die sich aus euren Antworten auf die in der App gestellten Fragen ergeben haben. Bei Fragen könnt ihr eine E-Mail an contact@asumaone.com schreiben.
+
+- Die meisten von euch bevorzugen Schokolade (48%) über Chips (40%)
+- Bei den Haustieren sind Hund (24%) und Katze (23%) nahezu gleich auf
+- Auch bei den beliebtesten Superkräften liegen Fliegen (32%) und Gedankenlesen (31%) sehr nah beieinander
+- Die meisten von euch (53%) begannen ihre Zockerkarriere auf einer Nintendo-Konsole
+- Bei den Lieblingsessen gewinnt die Pizza (42%) mit weitem Abstand vor Spaghetti, Burger und Döner
+- 88% von euch haben mindestens einen Bruder / eine Schwester
+- 14% von euch waren schon einmal in einen Lehrer verliebt
+- Eine Mehrheit (52%) von euch würde gerne einmal eine Weile das Geschlecht wechseln - ist ja auch sicher interessant ;)
+- 33% würden am liebsten einen Monat im Urwald verbringen, 32% auf einer Raumstation
+- The Big Bang Theory ist mit 31% die beliebteste Serie vor den Simpsons (26%) und Two and a half men (23%)
+- YouTube ist sowohl die beliebteste App (42%) als auch die beliebteste Webseite (53%)
+- Bei der Frage nach dem Heiratsantrag sehen 47% den Mann in der Pflicht, 47% finden es unwichtig, wer den Antrag macht
+- 69% sind der Meinung, dass Jungs bei Mädchen zuerst aufs Gesicht schauen
+- Hamburg ist mit 34% die mit Abstand beliebteste Stadt
+- 44% von euch haben mal The Test gespielt
+- 51% sind der Meinung, die Henne hat zuerst existiert, 49% sind für das Ei
+- Mama ist die beste Köchin (50%)
+- Strandurlaub ist der beliebteste Urlaub (70%)
+- 68% denken, dass Fußballer zu viel Geld verdienen, 3% finden das angemessen
+- 4% lesen regelmäßig AGB und Datenschutzerklärungen
+- Bei Schere, Stein, Papier entscheiden sich über 52% für Stein - denk nächstes Mal daran ;)
+- ProSieben ist mit 52% der beliebteste Fernsehsender
+- 15% von euch findet es okay, Orgasmen vorzutäuschen - na wenn das mal nicht euer Partner erfährt ;)
+- Eine Mehrheit (61%) glaubt an Liebe auf den ersten Blick
+- M&Ms sind mit 44% die beliebteste Süßigkeit
+- Die beliebteste Pizza ist Salami (30%)
+- Yoshi ist der beliebteste Fahrer bei Mario Kart (44%) - deutlich vor Mario selbst (25%)
+- Die Fotoalben werden zuerst aus dem brennenden Haus gerettet (54%) - noch vor dem Smartphone (33%)
+- 15% von euch würden sich eine Spinne oder Schlange als Haustier zulegen, der Rest findet die Idee nicht so toll...
+- Jennifer Lawrence gewinnt den Preis als attraktivster weiblicher Star hauchdünn vor Ariana Grande - beide kommen auf 32%
+- 68% haben schon mindestens einmal bei einer Prüfung geschummelt...
+- Wickie gewinnt mit 42% den Preis als beliebteste Kindheitsserie
+- 74% würden es dem Partner sagen, wenn das gekochte Essen nicht schmeckt
+- 22% sind dafür, Gras zu legalisieren, 19% dagegen - der Rest hat dazu keine Meinung
+- 75% halten nichts von Donald Trump
+- 43% würden in Gryffindor landen, 13% in Slytherin
+- 56% würden in der Achterbahn lieber die eigene Mutter vollreihern als den Partner...
+- Stattliche 97% bevorzugen WhatsApp als Kommunikationsmittel
+- 71% schauen sich gerne Serien aus ihrer Kindheit an
+- Der Italiener ist mit 66% die beliebteste "Essensquelle" vor dem Chinesen mit 29%
+- 6% von euch wurden bereits mindestens einmal verhaftet - ob das wohl wahr ist?
+- Glumanda ist mit 51% das beliebteste Starter-Pokémon
+- 29% wären gerne unsterblich
+- 64% würden gerne Gedanken lesen können
+- Der Löwe ist mit 32% das beliebteste Raubtier
+- Die beliebteste Serie für einen Gastauftritt 39% - und exakt 666 würden am liebsten bei Vampire Diaries mitspielen... Zufall?
+- 70% bevorzugen süßes Popcorn
+- 35% von euch wären am liebsten ein blaues M&M - nur 19% dagegen ein grünes
+- 64% gewichten Freiheit größer als Sicherheit
+- Sheldon ist mit Abstand (63%) die beliebteste Person in Big Bang Theory
+- 28% assoziieren Handschellen eher mit dem Schlafzimmer als mit der Polizei... ;)
+- 9% sind sich nicht so ganz sicher, ob die Erde rund ist ;)
+- 76% würden Liebe ohne Sex dem Gegenteil vorziehen

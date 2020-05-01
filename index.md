@@ -1,6 +1,22 @@
 _Language / Sprache_<br />
 [EN](/index-en) | [__DE__](/index)
 
+<br />
+<br />
+<br />
+
+<div style="background-color: orange; color: white;">
+---
+# Wichtige Information
+## Guess Your Friends wird zum 31. Mai 2020 eingestellt. Weitere Informationen findest du [hier](/thank-you.md).
+---
+</div>
+
+<br />
+<br />
+<br />
+<br />
+<br />
 # Guess Your Friends: Triff neue Leute
 
 Mit Guess Your Friends kannst du ganz einfach neue Leute kennenlernen. Lade die App jetzt kostenlos herunter!
